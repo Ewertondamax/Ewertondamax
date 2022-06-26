@@ -1,3 +1,9 @@
+
+Hello! I'm Ewerton 👩🏻‍💻
+
+https://www.typescriptlang.org/
+
+
 - 👋 Hi, I’m @Ewertondamax
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
