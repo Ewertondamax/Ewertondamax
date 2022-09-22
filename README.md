@@ -67,6 +67,7 @@
 <a href="">
   <img align="left" alt=" on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+  
 ![Snake animation](https://github.com/GabrielCostaLuiz/GabrielCostaLuiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
