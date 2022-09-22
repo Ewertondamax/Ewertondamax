@@ -47,7 +47,7 @@
 
 </div><br>
   
-  ### Connect with me in your favourite social
+  ### Conecte-se comigo em sua rede social favorita
   
 <div> 
   <a href="https://www.instagram.com/maxbodybuilding_motivacional/">
@@ -67,6 +67,8 @@
 <a href="">
   <img align="left" alt=" on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+  ![](https://visitor-badge.glitch.me/badge?page_id=vinnypessoni)
+  
   
 ![Snake animation](https://github.com/GabrielCostaLuiz/GabrielCostaLuiz/blob/output/github-contribution-grid-snake.svg)
  
