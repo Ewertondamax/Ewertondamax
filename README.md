@@ -50,21 +50,21 @@
   ### Conecte-se comigo em sua rede social favorita
   
 <div> 
-  <a href="https://www.instagram.com/maxbodybuilding_motivacional/">
+  <a href="https://www.instagram.com/maxbodybuilding_motivacional/" target="_blank">
   <img align="left" alt="maxbodybuilding_motivacional" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="">
+<a href="" target="_blank">
   <img align="left" alt="maxbodybuilding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 
-<a href="https://twitter.com/pessonizando">
+<a href="https://twitter.com/pessonizando" target="_blank">
   <img align="left" alt="Vinicius Pessoni on Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ewerton-martins-4b5765230/">
+<a href="https://www.linkedin.com/in/ewerton-martins-4b5765230/" target="_blank">
   <img align="left" alt="ewerton-martins on LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="" target="_blank">
   <img align="left" alt=" on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
   
