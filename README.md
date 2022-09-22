@@ -50,11 +50,23 @@
   ### Connect with me in your favourite social
   
 <div> 
-  <a href = "mailto:Ewertondamax1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ewerton-martins-4b5765230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
-  <a href="https://www.instagram.com/maxbodybuilding_motivacional/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"></a>
-  
+  <a href="https://www.instagram.com/maxbodybuilding_motivacional/">
+  <img align="left" alt="maxbodybuilding_motivacional" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="">
+  <img align="left" alt="maxbodybuilding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+</a>
+
+<a href="https://twitter.com/pessonizando">
+  <img align="left" alt="Vinicius Pessoni on Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ewerton-martins-4b5765230/">
+  <img align="left" alt="ewerton-martins on LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="">
+  <img align="left" alt=" on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 ![Snake animation](https://github.com/GabrielCostaLuiz/GabrielCostaLuiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
