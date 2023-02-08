@@ -72,7 +72,7 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=vinnypessoni)
   
   
-![Snake animation](https://github.com/Ewertondamax/Ewertondamax/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ewertondamax/GabrielCostaLuiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
