@@ -69,7 +69,7 @@
 </a>
   
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=vinnypessoni)
+  ![](https://visitor-badge.glitch.me/badge?page_id=Ewertondamax)
   
   
 ![Snake animation](https://github.com/Ewertondamax/GabrielCostaLuiz/blob/output/github-contribution-grid-snake.svg)
